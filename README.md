@@ -49,16 +49,23 @@ python app.py
 
 📊 Results:
 
+
 The Random Forest model achieved the highest accuracy among all tested algorithms, making it suitable for real-world wine quality prediction tasks.
 
+
+
 🧩 Tech Stack:
+
 Python
 Pandas, NumPy, Matplotlib, Seaborn
 Scikit-learn
 Flask / Streamlit
 
 Author
+
 Thota Anushka
+
 📧 anushkathota85@gmail.com
+
 LINLEDIN PROFILE  :https://www.linkedin.com/in/anushka-thota-3abb04384?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
